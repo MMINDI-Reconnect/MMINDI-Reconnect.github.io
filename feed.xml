@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>MMINDI-Reconnect SantaFe 2016 Reunion</title>
-		<description>MMINDI-Reconnect SantaFe 2016 Reunion site for registration, news, etc.</description>
+		<title>MMINDI Connect Santa Fe 2016 Reunion</title>
+		<description>MMINDI Connect Santa Fe 2016 Reunion site for registration, news, etc.</description>
 		<link></link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -18,8 +18,8 @@
 			</item>
 		
 			<item>
-				<title>MMINDI Reconnect Santa Fe 2016 Site is Live</title>
-				<description>&lt;p&gt;Welcome to the MMI NDI Reconnect Santa Fe 2016 site. This is where you will find all the information regarding the upcoming 2016, June 24-26 Santa Fe Reunion. David Trujillo, NDI &amp;#39;85, is our site host.&lt;/p&gt;
+				<title>MMINDI Connect Santa Fe 2016 Site is Live</title>
+				<description>&lt;p&gt;Welcome to the MMI NDI Connect Santa Fe 2016 site. This is where you will find all the information regarding the upcoming 2016, June 24-26 Santa Fe Reunion. David Trujillo, NDI &amp;#39;85, is our site host.&lt;/p&gt;
 
 &lt;p&gt;There are several folks behind the scenes who will be involved, and probably don&amp;#39;t even know it yet. ;-) But they will be credited as we move forward!&lt;/p&gt;
 
@@ -28,8 +28,8 @@
 &lt;p&gt;The original &lt;em&gt;theme&lt;/em&gt; for this site comes from &lt;a href=&quot;https://github.com/scotte/jekyll-clean&quot;&gt;the original theme on github&lt;/a&gt; to be sure we&amp;#39;re giving credit to the original author of the framework for this webpage.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 31 Aug 2015 12:25:06 -0500</pubDate>
-				<link>/2015/08/MMINDI%20Reconnect%20Site%20is%20live</link>
-				<guid isPermaLink="true">/2015/08/MMINDI%20Reconnect%20Site%20is%20live</guid>
+				<link>/2015/08/MMINDI%20Connect%20Site%20is%20live</link>
+				<guid isPermaLink="true">/2015/08/MMINDI%20Connect%20Site%20is%20live</guid>
 			</item>
 		
 	</channel>
