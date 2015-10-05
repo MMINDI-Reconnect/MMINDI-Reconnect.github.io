@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>MMINDI-Reconnect SantaFe 2016 Reunion</title>
-		<description>MMINDI-Reconnect SantaFe 2016 Reunion site for registration, news, etc.</description>
+		<title>MMINDI Connect Santa Fe 2016 Reunion</title>
+		<description>MMINDI Connect Santa Fe 2016 Reunion site for registration, news, etc.</description>
 		<link></link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -28,8 +28,8 @@
 &lt;p&gt;Framework Credit: the original &lt;em&gt;theme&lt;/em&gt; for this site comes from &lt;a href=&quot;https://github.com/scotte/jekyll-clean&quot;&gt;the original theme on github&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 31 Aug 2015 12:25:06 -0500</pubDate>
-				<link>/2015/08/MMINDI%20Reconnect%20Site%20is%20live</link>
-				<guid isPermaLink="true">/2015/08/MMINDI%20Reconnect%20Site%20is%20live</guid>
+				<link>/2015/08/MMINDI%20Connect%20Site%20is%20live</link>
+				<guid isPermaLink="true">/2015/08/MMINDI%20Connect%20Site%20is%20live</guid>
 			</item>
 		
 	</channel>
