@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>MMINDI Connect Santa Fe 2016 Reunion</title>
-		<description>MMINDI Connect Santa Fe 2016 Reunion site for registration, news, etc.</description>
+		<title>MMINDI-Reconnect SantaFe 2016 Reunion</title>
+		<description>MMINDI-Reconnect SantaFe 2016 Reunion site for registration, news, etc.</description>
 		<link></link>
 		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
 		
@@ -10,7 +10,7 @@
 				<title>David Signs Contract</title>
 				<description>&lt;p&gt;&lt;a href=&quot;http://www.laposadadesantafe.com&quot; title=&quot;La Posada De Santa Fe&quot;&gt;&lt;img src=&quot;/images/laposadadesantafe.jpg&quot; alt=&quot;La Posada De Santa Fe&quot; title=&quot;La Posada De Santa Fe&quot;&gt;&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;David Trujillo, our site host, has secured the wonderful &lt;a href=&quot;http://www.laposadadesantafe.com&quot; title=&quot;La Posada De Santa Fe&quot;&gt;La Posada De Santa Fe&lt;/a&gt;  and signed the contract reserving a block of rooms at a reduced rates. David says on &lt;a href=&quot;https://www.facebook.com/groups/1708231322736566/1797044693855228/?comment_id=1803838623175835&amp;amp;notif_t=like&quot;&gt;Facebook&lt;/a&gt;: &amp;quot;The contract is signed. June 24, 25, and 26. Regular room $199 (beautiful by the way) and suites $299. Central location. We can walk to everything. I&amp;#39;m also working on a less pricey option; however, June in santa fe is high season. I&amp;#39;m working on day trips to Bandalier and rafting. Santa felt is packed with so many options.&amp;quot;&lt;/p&gt;
+&lt;p&gt;David Trujillo, our site host, has secured the wonderful &lt;a href=&quot;http://www.laposadadesantafe.com&quot; title=&quot;La Posada De Santa Fe&quot;&gt;La Posada De Santa Fe&lt;/a&gt;  and signed the contract reserving a block of rooms at a reduced rates. David says on &lt;a href=&quot;https://www.facebook.com/groups/1708231322736566/1797044693855228/?comment_id=1803838623175835&amp;amp;notif_t=like&quot;&gt;Facebook&lt;/a&gt;: &amp;quot;The contract is signed. June 24, 25, and 26. Regular room $199 (beautiful by the way) and suites $299. Central location. We can walk to everything. I&amp;#39;m also working on a less pricey option; however, June in santa fe is high season. I&amp;#39;m working on day trips to Bandalier and rafting. Santa Fe is packed with so many options.&amp;quot;&lt;/p&gt;
 </description>
 				<pubDate>Mon, 31 Aug 2015 14:00:00 -0500</pubDate>
 				<link>/2015/08/David%20Signs%20Contract</link>
@@ -25,11 +25,11 @@
 
 &lt;p&gt;First of all, if you&amp;#39;re not already aware - there is a large Facebook Contingent of MMI and NDI alumni on Facebook. Contact us here with your name, class year, school, and facebook/email info so we can connect you to the closed group. We might ask you a stupid question to make sure it&amp;#39;s you. ;-)&lt;/p&gt;
 
-&lt;p&gt;The original &lt;em&gt;theme&lt;/em&gt; for this site comes from &lt;a href=&quot;https://github.com/scotte/jekyll-clean&quot;&gt;the original theme on github&lt;/a&gt; to be sure we&amp;#39;re giving credit to the original author of the framework for this webpage.&lt;/p&gt;
+&lt;p&gt;Framework Credit: the original &lt;em&gt;theme&lt;/em&gt; for this site comes from &lt;a href=&quot;https://github.com/scotte/jekyll-clean&quot;&gt;the original theme on github&lt;/a&gt;.&lt;/p&gt;
 </description>
 				<pubDate>Mon, 31 Aug 2015 12:25:06 -0500</pubDate>
-				<link>/2015/08/MMINDI%20Connect%20Site%20is%20live</link>
-				<guid isPermaLink="true">/2015/08/MMINDI%20Connect%20Site%20is%20live</guid>
+				<link>/2015/08/MMINDI%20Reconnect%20Site%20is%20live</link>
+				<guid isPermaLink="true">/2015/08/MMINDI%20Reconnect%20Site%20is%20live</guid>
 			</item>
 		
 	</channel>
